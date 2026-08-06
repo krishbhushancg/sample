@@ -26,6 +26,22 @@
 
 ~~krish bhushan~~
 
+<sub>krish bhushan<sub>
+<sup>krish bhushan<sup>
+- krish
+* bhushan
+
+`code` to display code beautifully
+
+
+(```) html (```)
+
+
+
+
+
+
+
 
   
 
