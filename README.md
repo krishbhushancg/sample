@@ -19,3 +19,11 @@
   
   ![(logo](https://cdn.pixabay.com/photo/2014/07/24/08/16/linkedin-400850_640.png)
 
+  <font size="+2">This text is larger</font>
+<span style="font-size: 20px;">This text is 20px</span>
+
+~~text~~
+
+
+  
+
